@@ -5,18 +5,12 @@ Stuff I use to study and practice.
 ## YouTube
 
 - [NeetCode](https://www.youtube.com/@NeetCode)
-- [Coding Ninjas](https://www.youtube.com/@CodingNinjasIndia)
+- [Coding Ninja](https://www.youtube.com/channel/UC1zWZnkvq3iamAVene9DJbQ)
 - [Greg Hogg](https://www.youtube.com/@GregHogg)
 
 ## Practice
 
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
-
-## Study
-
 - [NeetCode](https://neetcode.io/)
-
-## More
-
--
+- [AlgoMap](https://algomap.io/)
