@@ -4,7 +4,9 @@ Stuff I use to study and practice.
 
 ## YouTube
 
--
+- [NeetCode](https://www.youtube.com/@NeetCode)
+- [Coding Ninjas](https://www.youtube.com/@CodingNinjasIndia)
+- [Greg Hogg](https://www.youtube.com/@GregHogg)
 
 ## Practice
 
